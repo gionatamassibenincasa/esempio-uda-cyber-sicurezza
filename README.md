@@ -15,7 +15,7 @@ comment:  Try to write a short comment about
 
 This is your **course** initialization stub.
 
-Please see the [Docs](https://liascript.github.io/course/?https://raw.githubusercontent.com/gionatamassibenincasa/esempio-uda-cyber-sicurezza/main/README.md)
+Please see the [presentazione](https://liascript.github.io/course/?https://raw.githubusercontent.com/gionatamassibenincasa/esempio-uda-cyber-sicurezza/main/README.md)
 to find out what is possible in [LiaScript](https://liascript.github.io).
 
 If you want to use instant help in your Atom IDE, please type **lia** to see all available shortcuts.
