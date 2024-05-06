@@ -11,14 +11,12 @@ comment:  Try to write a short comment about
           your course, multiline is also okay.
 -->
 
-# Course Main Title
+# Privacy, Dati personali e GDPR
 
-This is your **course** initialization stub.
+Autori: Tizio, Caio e Sempronio
 
-Please see the [Docs](https://liascript.github.io/course/?https://raw.githubusercontent.com/gionatamassibenincasa/esempio-uda-cyber-sicurezza/main/README.md)
-to find out what is possible in [LiaScript](https://liascript.github.io).
+Clicca per visualizzare [questo corso sul Privacy...](https://liascript.github.io/course/?https://raw.githubusercontent.com/gionatamassibenincasa/esempio-uda-cyber-sicurezza/main/README.md).
 
-If you want to use instant help in your Atom IDE, please type **lia** to see all available shortcuts.
 
 ## Quiz risposta multipla più scelte
 
